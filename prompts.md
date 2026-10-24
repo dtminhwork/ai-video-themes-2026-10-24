@@ -1,6 +1,6 @@
-# 38 AI Video Concepts
+# 40 AI Video Concepts
 
-8 categories · 22 completed videos · Portrait first frames · Detailed prompts for 5-second clips
+8 categories · 36 completed videos · Portrait first frames · Detailed prompts for 5-second clips
 
 Use each attached image as the source image in your image-to-video tool. Set duration to 5 seconds and portrait 9:16.
 
@@ -213,6 +213,7 @@ Camera and visual style: Sports-anime exaggeration with readable ball path and o
 
 ![Cloud Train Arrival](images/ghibli-01.png)
 
+[Watch video 1](videos/ghibli-01.mp4)
 
 **Video prompt**
 
@@ -232,6 +233,7 @@ Camera and visual style: Soft hand-painted watercolor animation, quiet camera do
 
 ![The Walking Garden](images/ghibli-02.png)
 
+[Watch video 1](videos/ghibli-02.mp4)
 
 **Video prompt**
 
@@ -251,6 +253,7 @@ Camera and visual style: Warm hand-painted watercolor fantasy; slow believable c
 
 ![The Storm in a Lantern](images/ghibli-03.png)
 
+[Watch video 1](videos/ghibli-03.mp4)
 
 **Video prompt**
 
@@ -270,6 +273,7 @@ Camera and visual style: Delicate hand-painted animation; one close camera drift
 
 ![Sky Whale Crossing](images/ghibli-04.png)
 
+[Watch video 1](videos/ghibli-04.mp4)
 
 **Video prompt**
 
@@ -289,6 +293,7 @@ Camera and visual style: Airy hand-painted watercolor fantasy; slow sweeping cam
 
 ![The Rainy Bakery](images/ghibli-05.png)
 
+[Watch video 1](videos/ghibli-05.mp4)
 
 **Video prompt**
 
@@ -330,6 +335,7 @@ Camera and visual style: Photorealistic sports-comedy timing, one readable broad
 
 ![Accidental Wonder Goal](images/football-02.png)
 
+[Watch video 1](videos/football-02.mp4)
 
 **Video prompt**
 
@@ -389,6 +395,7 @@ Camera and visual style: Playful photorealistic stadium comedy; keep the mascot'
 
 ![Sprinkler Celebration](images/football-05.png)
 
+[Watch video 1](videos/football-05.mp4)
 
 **Video prompt**
 
@@ -551,6 +558,7 @@ Camera and visual style: Photorealistic traditional dojo, one controlled side pu
 
 ![Rooftop Spar](images/martial-03.png)
 
+[Watch video 1](videos/martial-03.mp4)
 
 **Video prompt**
 
@@ -589,6 +597,7 @@ Camera and visual style: Photorealistic joyful capoeira, continuous close-to-wid
 
 ![The Falling Leaf](images/martial-05.png)
 
+[Watch video 1](videos/martial-05.mp4)
 
 **Video prompt**
 
@@ -630,6 +639,7 @@ Camera and visual style: Continuous over-the-shoulder crane, photorealistic jung
 
 ![City Beneath the Dunes](images/adventure-02.png)
 
+[Watch video 1](videos/adventure-02.mp4)
 
 **Video prompt**
 
@@ -668,6 +678,7 @@ Camera and visual style: Physically grounded mountaineering motion, continuous c
 
 ![The Sunken Giant](images/adventure-04.png)
 
+[Watch video 1](videos/adventure-04.mp4)
 
 **Video prompt**
 
@@ -687,6 +698,7 @@ Camera and visual style: Serene photorealistic underwater motion, accurate buoya
 
 ![The Storm Passage](images/adventure-05.png)
 
+[Watch video 1](videos/adventure-05.mp4)
 
 **Video prompt**
 
@@ -762,4 +774,44 @@ Opening frame: A man in a 1990s bedroom sits at a bulky CRT computer; the dark s
 3.6–5.0 seconds: He places his palm against the glass; the reflected palm meets it. The screen glows softly, and his surprised expression settles into a quiet smile. Hold the final image clearly for the last 0.3 seconds.
 
 Camera and visual style: Intimate photorealistic 1990s nostalgia, one continuous over-the-shoulder push-in, warm tungsten light and restrained CRT glow. Sound, if supported: Power-button click, soft CRT hum, faint tape hiss, gentle original synth chord. Keep the movement brisk but readable, prioritizing one main action and a clear final payoff. Keep character identities and object geometry consistent. One continuous shot, with no cuts, teleporting, face changes, extra limbs, unintended text, or watermarks.
+```
+
+### Circle of Rhythm — Ground Spin
+
+![Circle of Rhythm — Ground Spin](images/martial-04-alt-a.png)
+
+[Watch video 1](videos/martial-04-alt-a.mp4)
+
+**Video prompt**
+
+```text
+Create a 5-second, 9:16 portrait image-to-video clip. Use the supplied image as the exact first frame; do not replace it with a new opening shot. Preserve its composition, characters, costumes, setting, lighting, and visible objects at 0.0 seconds.
+
+Opening frame: At golden hour in a colorful colonial plaza, a capoeira performer in white balances on one palm with one leg extended while musicians and friends clap around the circle.
+
+0.0–1.0 seconds: His planted palm grips the ground and the extended leg sweeps forward in time with the clapping rhythm.
+1.0–3.6 seconds: He flows into a fast, controlled ground spin, his white clothes and red cord tracing a clean arc while the camera circles with him at low height.
+3.6–5.0 seconds: He lands lightly, faces the musicians and lifts one hand to the beat as the whole circle cheers; hold the joyful wide composition. Hold the final image clearly for the last 0.3 seconds.
+
+Camera and visual style: Photorealistic capoeira at sunset, one continuous low orbit, warm architectural color, physically believable balance and motion. Sound, if supported: Live berimbau and drum rhythm, handclaps, foot contact, crowd cheer. Keep the movement brisk but readable, prioritizing one main action and a clear final payoff. Keep character identities and object geometry consistent. One continuous shot, with no cuts, teleporting, face changes, extra limbs, unintended text, or watermarks.
+```
+
+### Circle of Rhythm — One-Hand Flight
+
+![Circle of Rhythm — One-Hand Flight](images/martial-04-alt-b.png)
+
+[Watch video 1](videos/martial-04-alt-b.mp4)
+
+**Video prompt**
+
+```text
+Create a 5-second, 9:16 portrait image-to-video clip. Use the supplied image as the exact first frame; do not replace it with a new opening shot. Preserve its composition, characters, costumes, setting, lighting, and visible objects at 0.0 seconds.
+
+Opening frame: In a sunlit colonial plaza, a capoeira performer in blue-and-white training clothes holds a one-hand handstand, legs split high above a circle of clapping musicians.
+
+0.0–1.0 seconds: The performer steadies the one-hand balance for a beat while the red waist cord and loose fabric flutter.
+1.0–3.6 seconds: He rotates through the air in a fluid capoeira spin as the camera sweeps around him, keeping the plaza and musicians in view.
+3.6–5.0 seconds: He touches down with perfect control and breaks into a quick grin while the drums strike a final flourish; hold the reaction. Hold the final image clearly for the last 0.3 seconds.
+
+Camera and visual style: Photorealistic golden-hour capoeira, continuous camera orbit, energetic but anatomically consistent motion, warm festive colors. Sound, if supported: Berimbau, hand drums, synchronized claps, brief celebratory shout. Keep the movement brisk but readable, prioritizing one main action and a clear final payoff. Keep character identities and object geometry consistent. One continuous shot, with no cuts, teleporting, face changes, extra limbs, unintended text, or watermarks.
 ```
