@@ -1,6 +1,6 @@
 # 40 AI Video Concepts
 
-8 categories · 36 completed videos · Portrait first frames · Detailed prompts for 5-second clips
+8 categories · 40 completed videos · Portrait first frames · Detailed prompts for 5-second clips
 
 Use each attached image as the source image in your image-to-video tool. Set duration to 5 seconds and portrait 9:16.
 
@@ -30,6 +30,7 @@ Camera and visual style: Low continuous tracking shot; grounded noir realism wit
 
 ![Checkmate at Dusk](images/mafia-02.png)
 
+[Watch video 1](videos/mafia-02.mp4)
 
 **Video prompt**
 
@@ -519,6 +520,7 @@ Camera and visual style: Grounded photorealism with a restrained magical mood; k
 
 ![Dawn Form](images/martial-01.png)
 
+[Watch video 1](videos/martial-01.mp4)
 
 **Video prompt**
 
@@ -578,6 +580,7 @@ Camera and visual style: One continuous mid-wide tracking shot; readable choreog
 
 ![Circle of Rhythm](images/martial-04.png)
 
+[Watch video 1](videos/martial-04.mp4)
 
 **Video prompt**
 
@@ -659,6 +662,7 @@ Camera and visual style: Epic photorealistic desert scale, one continuous rising
 
 ![Above the Clouds](images/adventure-03.png)
 
+[Watch video 1](videos/adventure-03.mp4)
 
 **Video prompt**
 
