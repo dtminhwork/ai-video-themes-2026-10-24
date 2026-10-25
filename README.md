@@ -6,4 +6,4 @@ Open `index.html` or deploy the folder as a static site. The page uses only loca
 
 PNG first frames and the full prompt list are included as supporting assets.
 
-Use the download button to get every completed video in `all-videos.zip`.
+Each download contains the MP4 and an animated WebP copy. Use the main download button to get all completed videos in both formats.

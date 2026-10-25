@@ -10,7 +10,7 @@ Use each attached image as the source image in your image-to-video tool. Set dur
 
 ![Rain Arrival](images/mafia-01.png)
 
-[Watch video 1](videos/mafia-01.mp4)
+[Watch video 1](videos/mafia-01.mp4) · [Download MP4 + WebP](downloads/mafia-01.zip)
 
 **Video prompt**
 
@@ -30,7 +30,7 @@ Camera and visual style: Low continuous tracking shot; grounded noir realism wit
 
 ![Checkmate at Dusk](images/mafia-02.png)
 
-[Watch video 1](videos/mafia-02.mp4)
+[Watch video 1](videos/mafia-02.mp4) · [Download MP4 + WebP](downloads/mafia-02.zip)
 
 **Video prompt**
 
@@ -50,7 +50,7 @@ Camera and visual style: One controlled low orbit and rack focus; cinematic blue
 
 ![The Red Envelope](images/mafia-03.png)
 
-[Watch video 1](videos/mafia-03.mp4)
+[Watch video 1](videos/mafia-03.mp4) · [Download MP4 + WebP](downloads/mafia-03.zip)
 
 **Video prompt**
 
@@ -70,7 +70,7 @@ Camera and visual style: Slow push from medium frame to close portrait; luxuriou
 
 ![The Casino Entrance](images/mafia-04.png)
 
-[Watch video 1](videos/mafia-04.mp4)
+[Watch video 1](videos/mafia-04.mp4) · [Download MP4 + WebP](downloads/mafia-04.zip)
 
 **Video prompt**
 
@@ -90,7 +90,7 @@ Camera and visual style: Symmetrical continuous dolly, polished gangster-film re
 
 ![The Last Candle](images/mafia-05.png)
 
-[Watch video 1](videos/mafia-05.mp4)
+[Watch video 1](videos/mafia-05.mp4) · [Download MP4 + WebP](downloads/mafia-05.zip)
 
 **Video prompt**
 
@@ -112,7 +112,7 @@ Camera and visual style: One elegant table-level push-in; noir contrast between 
 
 ![Moonblade Awakening](images/anime-01.png)
 
-[Watch video 1](videos/anime-01.mp4)
+[Watch video 1](videos/anime-01.mp4) · [Download MP4 + WebP](downloads/anime-01.zip)
 
 **Video prompt**
 
@@ -132,7 +132,7 @@ Camera and visual style: Fluid 2D animated film motion, bold hand-painted effect
 
 ![Neon Courier Jump](images/anime-02.png)
 
-[Watch video 1](videos/anime-02.mp4)
+[Watch video 1](videos/anime-02.mp4) · [Download MP4 + WebP](downloads/anime-02.zip)
 
 **Video prompt**
 
@@ -152,7 +152,7 @@ Camera and visual style: One continuous side-tracking action shot; kinetic 2D an
 
 ![Mecha Dawn Launch](images/anime-03.png)
 
-[Watch video 1](videos/anime-03.mp4)
+[Watch video 1](videos/anime-03.mp4) · [Download MP4 + WebP](downloads/anime-03.zip)
 
 **Video prompt**
 
@@ -172,7 +172,7 @@ Camera and visual style: Remain inside the cockpit in a single shot; layered han
 
 ![Dragon Shadow](images/anime-04.png)
 
-[Watch video 1](videos/anime-04.mp4)
+[Watch video 1](videos/anime-04.mp4) · [Download MP4 + WebP](downloads/anime-04.zip)
 
 **Video prompt**
 
@@ -192,7 +192,7 @@ Camera and visual style: One graceful camera tilt from wrist to sky; painterly a
 
 ![Impossible Save](images/anime-05.png)
 
-[Watch video 1](videos/anime-05.mp4)
+[Watch video 1](videos/anime-05.mp4) · [Download MP4 + WebP](downloads/anime-05.zip)
 
 **Video prompt**
 
@@ -214,7 +214,7 @@ Camera and visual style: Sports-anime exaggeration with readable ball path and o
 
 ![Cloud Train Arrival](images/ghibli-01.png)
 
-[Watch video 1](videos/ghibli-01.mp4)
+[Watch video 1](videos/ghibli-01.mp4) · [Download MP4 + WebP](downloads/ghibli-01.zip)
 
 **Video prompt**
 
@@ -234,7 +234,7 @@ Camera and visual style: Soft hand-painted watercolor animation, quiet camera do
 
 ![The Walking Garden](images/ghibli-02.png)
 
-[Watch video 1](videos/ghibli-02.mp4)
+[Watch video 1](videos/ghibli-02.mp4) · [Download MP4 + WebP](downloads/ghibli-02.zip)
 
 **Video prompt**
 
@@ -254,7 +254,7 @@ Camera and visual style: Warm hand-painted watercolor fantasy; slow believable c
 
 ![The Storm in a Lantern](images/ghibli-03.png)
 
-[Watch video 1](videos/ghibli-03.mp4)
+[Watch video 1](videos/ghibli-03.mp4) · [Download MP4 + WebP](downloads/ghibli-03.zip)
 
 **Video prompt**
 
@@ -274,7 +274,7 @@ Camera and visual style: Delicate hand-painted animation; one close camera drift
 
 ![Sky Whale Crossing](images/ghibli-04.png)
 
-[Watch video 1](videos/ghibli-04.mp4)
+[Watch video 1](videos/ghibli-04.mp4) · [Download MP4 + WebP](downloads/ghibli-04.zip)
 
 **Video prompt**
 
@@ -294,7 +294,7 @@ Camera and visual style: Airy hand-painted watercolor fantasy; slow sweeping cam
 
 ![The Rainy Bakery](images/ghibli-05.png)
 
-[Watch video 1](videos/ghibli-05.mp4)
+[Watch video 1](videos/ghibli-05.mp4) · [Download MP4 + WebP](downloads/ghibli-05.zip)
 
 **Video prompt**
 
@@ -316,7 +316,7 @@ Camera and visual style: Cozy hand-painted watercolor animation; steady doorway 
 
 ![Premature Celebration](images/football-01.png)
 
-[Watch video 1](videos/football-01.mp4)
+[Watch video 1](videos/football-01.mp4) · [Download MP4 + WebP](downloads/football-01.zip)
 
 **Video prompt**
 
@@ -336,7 +336,7 @@ Camera and visual style: Photorealistic sports-comedy timing, one readable broad
 
 ![Accidental Wonder Goal](images/football-02.png)
 
-[Watch video 1](videos/football-02.mp4)
+[Watch video 1](videos/football-02.mp4) · [Download MP4 + WebP](downloads/football-02.zip)
 
 **Video prompt**
 
@@ -356,7 +356,7 @@ Camera and visual style: Photorealistic sports comedy; coherent foot-to-ball con
 
 ![The Heroic Miss](images/football-03.png)
 
-[Watch video 1](videos/football-03.mp4)
+[Watch video 1](videos/football-03.mp4) · [Download MP4 + WebP](downloads/football-03.zip)
 
 **Video prompt**
 
@@ -376,7 +376,7 @@ Camera and visual style: Photorealistic stadium comedy; maintain a precise, cons
 
 ![Mascot Nutmeg](images/football-04.png)
 
-[Watch video 1](videos/football-04.mp4)
+[Watch video 1](videos/football-04.mp4) · [Download MP4 + WebP](downloads/football-04.zip)
 
 **Video prompt**
 
@@ -396,7 +396,7 @@ Camera and visual style: Playful photorealistic stadium comedy; keep the mascot'
 
 ![Sprinkler Celebration](images/football-05.png)
 
-[Watch video 1](videos/football-05.mp4)
+[Watch video 1](videos/football-05.mp4) · [Download MP4 + WebP](downloads/football-05.zip)
 
 **Video prompt**
 
@@ -418,7 +418,7 @@ Camera and visual style: Photorealistic football comedy, natural water movement,
 
 ![Midnight Arcade](images/nostalgia-01.png)
 
-[Watch video 1](videos/nostalgia-01.mp4)
+[Watch video 1](videos/nostalgia-01.mp4) · [Download MP4 + WebP](downloads/nostalgia-01.zip)
 
 **Video prompt**
 
@@ -438,7 +438,7 @@ Camera and visual style: Photorealistic 1980s atmosphere, subtle film grain, one
 
 ![The Mixtape Drive](images/nostalgia-02.png)
 
-[Watch video 1](videos/nostalgia-02.mp4)
+[Watch video 1](videos/nostalgia-02.mp4) · [Download MP4 + WebP](downloads/nostalgia-02.zip)
 
 **Video prompt**
 
@@ -458,7 +458,7 @@ Camera and visual style: Intimate photorealistic 1980s road-film look, warm dash
 
 ![The Last Video Store](images/nostalgia-03.png)
 
-[Watch video 1](videos/nostalgia-03.mp4)
+[Watch video 1](videos/nostalgia-03.mp4) · [Download MP4 + WebP](downloads/nostalgia-03.zip)
 
 **Video prompt**
 
@@ -478,7 +478,7 @@ Camera and visual style: One steady dolly through the aisle, analog texture and 
 
 ![One More Street Match](images/nostalgia-04.png)
 
-[Watch video 1](videos/nostalgia-04.mp4)
+[Watch video 1](videos/nostalgia-04.mp4) · [Download MP4 + WebP](downloads/nostalgia-04.zip)
 
 **Video prompt**
 
@@ -498,7 +498,7 @@ Camera and visual style: Warm photorealistic 1990s memory, soft film grain, cont
 
 ![Dial-up Universe](images/nostalgia-05.png)
 
-[Watch video 1](videos/nostalgia-05.mp4)
+[Watch video 1](videos/nostalgia-05.mp4) · [Download MP4 + WebP](downloads/nostalgia-05.zip)
 
 **Video prompt**
 
@@ -520,7 +520,7 @@ Camera and visual style: Grounded photorealism with a restrained magical mood; k
 
 ![Dawn Form](images/martial-01.png)
 
-[Watch video 1](videos/martial-01.mp4)
+[Watch video 1](videos/martial-01.mp4) · [Download MP4 + WebP](downloads/martial-01.zip)
 
 **Video prompt**
 
@@ -540,7 +540,7 @@ Camera and visual style: Grounded cinematic martial-arts choreography, accurate 
 
 ![The Final Board](images/martial-02.png)
 
-[Watch video 1](videos/martial-02.mp4)
+[Watch video 1](videos/martial-02.mp4) · [Download MP4 + WebP](downloads/martial-02.zip)
 
 **Video prompt**
 
@@ -560,7 +560,7 @@ Camera and visual style: Photorealistic traditional dojo, one controlled side pu
 
 ![Rooftop Spar](images/martial-03.png)
 
-[Watch video 1](videos/martial-03.mp4)
+[Watch video 1](videos/martial-03.mp4) · [Download MP4 + WebP](downloads/martial-03.zip)
 
 **Video prompt**
 
@@ -580,7 +580,7 @@ Camera and visual style: One continuous mid-wide tracking shot; readable choreog
 
 ![Circle of Rhythm](images/martial-04.png)
 
-[Watch video 1](videos/martial-04.mp4)
+[Watch video 1](videos/martial-04.mp4) · [Download MP4 + WebP](downloads/martial-04.zip)
 
 **Video prompt**
 
@@ -600,7 +600,7 @@ Camera and visual style: Photorealistic joyful capoeira, continuous close-to-wid
 
 ![The Falling Leaf](images/martial-05.png)
 
-[Watch video 1](videos/martial-05.mp4)
+[Watch video 1](videos/martial-05.mp4) · [Download MP4 + WebP](downloads/martial-05.zip)
 
 **Video prompt**
 
@@ -622,7 +622,7 @@ Camera and visual style: Elegant cinematic sword practice, restrained movement, 
 
 ![The Hidden Temple](images/adventure-01.png)
 
-[Watch video 1](videos/adventure-01.mp4)
+[Watch video 1](videos/adventure-01.mp4) · [Download MP4 + WebP](downloads/adventure-01.zip)
 
 **Video prompt**
 
@@ -642,7 +642,7 @@ Camera and visual style: Continuous over-the-shoulder crane, photorealistic jung
 
 ![City Beneath the Dunes](images/adventure-02.png)
 
-[Watch video 1](videos/adventure-02.mp4)
+[Watch video 1](videos/adventure-02.mp4) · [Download MP4 + WebP](downloads/adventure-02.zip)
 
 **Video prompt**
 
@@ -662,7 +662,7 @@ Camera and visual style: Epic photorealistic desert scale, one continuous rising
 
 ![Above the Clouds](images/adventure-03.png)
 
-[Watch video 1](videos/adventure-03.mp4)
+[Watch video 1](videos/adventure-03.mp4) · [Download MP4 + WebP](downloads/adventure-03.zip)
 
 **Video prompt**
 
@@ -682,7 +682,7 @@ Camera and visual style: Physically grounded mountaineering motion, continuous c
 
 ![The Sunken Giant](images/adventure-04.png)
 
-[Watch video 1](videos/adventure-04.mp4)
+[Watch video 1](videos/adventure-04.mp4) · [Download MP4 + WebP](downloads/adventure-04.zip)
 
 **Video prompt**
 
@@ -702,7 +702,7 @@ Camera and visual style: Serene photorealistic underwater motion, accurate buoya
 
 ![The Storm Passage](images/adventure-05.png)
 
-[Watch video 1](videos/adventure-05.mp4)
+[Watch video 1](videos/adventure-05.mp4) · [Download MP4 + WebP](downloads/adventure-05.zip)
 
 **Video prompt**
 
@@ -724,7 +724,7 @@ Camera and visual style: Epic but believable maritime realism, continuous deck-l
 
 ![Rooftop Leap](images/rooftop-hero.png)
 
-[Watch video 1](videos/rooftop-hero.mp4)
+[Watch video 1](videos/rooftop-hero.mp4) · [Download MP4 + WebP](downloads/rooftop-hero.zip)
 
 **Video prompt**
 
@@ -744,7 +744,7 @@ Camera and visual style: Photorealistic superhero action, natural daylight, beli
 
 ![Skyline Courier — Alternate](images/anime-02-alt.png)
 
-[Watch video 1](videos/anime-02-alt.mp4)
+[Watch video 1](videos/anime-02-alt.mp4) · [Download MP4 + WebP](downloads/anime-02-alt.zip)
 
 **Video prompt**
 
@@ -764,7 +764,7 @@ Camera and visual style: High-end anime action, strong perspective, expressive r
 
 ![An Unexpected Face on the CRT](images/nostalgia-alt.png)
 
-[Watch video 1](videos/nostalgia-alt.mp4)
+[Watch video 1](videos/nostalgia-alt.mp4) · [Download MP4 + WebP](downloads/nostalgia-alt.zip)
 
 **Video prompt**
 
@@ -784,7 +784,7 @@ Camera and visual style: Intimate photorealistic 1990s nostalgia, one continuous
 
 ![Circle of Rhythm — Ground Spin](images/martial-04-alt-a.png)
 
-[Watch video 1](videos/martial-04-alt-a.mp4)
+[Watch video 1](videos/martial-04-alt-a.mp4) · [Download MP4 + WebP](downloads/martial-04-alt-a.zip)
 
 **Video prompt**
 
@@ -804,7 +804,7 @@ Camera and visual style: Photorealistic capoeira at sunset, one continuous low o
 
 ![Circle of Rhythm — One-Hand Flight](images/martial-04-alt-b.png)
 
-[Watch video 1](videos/martial-04-alt-b.mp4)
+[Watch video 1](videos/martial-04-alt-b.mp4) · [Download MP4 + WebP](downloads/martial-04-alt-b.zip)
 
 **Video prompt**
 
