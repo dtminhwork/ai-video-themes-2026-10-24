@@ -4,10 +4,8 @@ A static website with video carousels organized by theme and one-click 5-second 
 
 Open `index.html` or deploy the folder as a static site. The page uses only local assets.
 
-PNG first frames and the full prompt list are included as supporting assets.
+Each card shows a video beside its PNG first frame. Individual ZIP downloads contain the MP4, animated WebP, and original first-frame PNG.
 
-Each download contains the MP4 and an animated WebP copy. Use the main download button to get all completed videos in both formats.
+The main download button gets all 40 theme videos in those three formats from a GitHub release. The separate Sexy tab has seven clips with their own three-format downloads and batch ZIP.
 
-The separate Sexy tab contains seven user-provided MP4 clips from `videos/sexy/`, each with an individual MP4 download. The 40-video ZIP remains the original theme collection.
-
-**Sexy prompts:** See `prompts-sexy.md` for the detailed 5-second image-to-video prompts corresponding to the three bedroom clips (white silk robe, pink lace, beige sweater).
+Detailed prompts for three Sexy clips are in [prompts-sexy.md](prompts-sexy.md).
